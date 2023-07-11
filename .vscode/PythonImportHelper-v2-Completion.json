@@ -1,0 +1,1080 @@
+[
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy.schema",
+        "description": "sqlalchemy.schema",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.schema",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy.types",
+        "description": "sqlalchemy.types",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.types",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy.types",
+        "description": "sqlalchemy.types",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.types",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "db_engine",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Hash",
+        "importPath": "auth.hashing",
+        "description": "auth.hashing",
+        "isExtraImport": true,
+        "detail": "auth.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "Hash",
+        "importPath": "auth.hashing",
+        "description": "auth.hashing",
+        "isExtraImport": true,
+        "detail": "auth.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "TweetSimple",
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "isExtraImport": true,
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSimple",
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "isExtraImport": true,
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "tweet_service",
+        "importPath": "services",
+        "description": "services",
+        "isExtraImport": true,
+        "detail": "services",
+        "documentation": {}
+    },
+    {
+        "label": "user_service",
+        "importPath": "services",
+        "description": "services",
+        "isExtraImport": true,
+        "detail": "services",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "tweet_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "Hash",
+        "kind": 6,
+        "importPath": "auth.hashing",
+        "description": "auth.hashing",
+        "peekOfCode": "class Hash():\n    def bcrypt(password: str):\n        return pwd_cxt.hash(password)\n    def verify(hashed_password,plain_password):\n        return pwd_cxt.verify(plain_password,hashed_password)",
+        "detail": "auth.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_cxt",
+        "kind": 5,
+        "importPath": "auth.hashing",
+        "description": "auth.hashing",
+        "peekOfCode": "pwd_cxt = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nclass Hash():\n    def bcrypt(password: str):\n        return pwd_cxt.hash(password)\n    def verify(hashed_password,plain_password):\n        return pwd_cxt.verify(plain_password,hashed_password)",
+        "detail": "auth.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "auth.oauth2",
+        "description": "auth.oauth2",
+        "peekOfCode": "def get_current_user(data: str = Depends(oauth2_scheme)):\n    credentials_exception = HTTPException(\n        status_code = status.HTTP_401_UNAUTHORIZED,\n        detail = \"Could not validate credentials\",\n        headers = {\"WWW-Authenticate\": \"Bearer\"},\n    )\n    return token.verify_token(data, credentials_exception)",
+        "detail": "auth.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "auth.oauth2",
+        "description": "auth.oauth2",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\ndef get_current_user(data: str = Depends(oauth2_scheme)):\n    credentials_exception = HTTPException(\n        status_code = status.HTTP_401_UNAUTHORIZED,\n        detail = \"Could not validate credentials\",\n        headers = {\"WWW-Authenticate\": \"Bearer\"},\n    )\n    return token.verify_token(data, credentials_exception)",
+        "detail": "auth.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "auth.token",
+        "description": "auth.token",
+        "peekOfCode": "def create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username: str = payload.get(\"sub\")",
+        "detail": "auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "auth.token",
+        "description": "auth.token",
+        "peekOfCode": "def verify_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise credentials_exception\n        token_data = schemas.TokenData(username=username)\n    except JWTError:\n        raise credentials_exception\n    return token_data",
+        "detail": "auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "auth.token",
+        "description": "auth.token",
+        "peekOfCode": "SECRET_KEY = \"09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_token(token:str, credentials_exception):",
+        "detail": "auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "auth.token",
+        "description": "auth.token",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_token(token:str, credentials_exception):\n    try:",
+        "detail": "auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "auth.token",
+        "description": "auth.token",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "config.database",
+        "description": "config.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "config.database",
+        "description": "config.database",
+        "peekOfCode": "DATABASE_URL = \"mysql+mysqldb://root:root@localhost:3306/twitter\"\ndb_engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=db_engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "db_engine",
+        "kind": 5,
+        "importPath": "config.database",
+        "description": "config.database",
+        "peekOfCode": "db_engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=db_engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "config.database",
+        "description": "config.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=db_engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "config.database",
+        "description": "config.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.models",
+        "description": "models.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"user\"\n    user_id: Mapped[int] = mapped_column(primary_key=True, index=True)\n    username = Column(String(255))\n    password = Column(String(255))\n    tweets: Mapped[List[\"Tweet\"]] = relationship(back_populates=\"user\")\nclass Tweet(Base):\n    __tablename__ = \"tweet\"\n    tweet_id: Mapped[int] = mapped_column(primary_key=True, index=True)\n    tweet = Column(String(140)) ",
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tweet",
+        "kind": 6,
+        "importPath": "models.models",
+        "description": "models.models",
+        "peekOfCode": "class Tweet(Base):\n    __tablename__ = \"tweet\"\n    tweet_id: Mapped[int] = mapped_column(primary_key=True, index=True)\n    tweet = Column(String(140)) \n    user_id: Mapped[int] = mapped_column(ForeignKey(\"user.user_id\"))  \n    user: Mapped[\"User\"] = relationship(back_populates=\"tweets\")",
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "routers.auth_router",
+        "description": "routers.auth_router",
+        "peekOfCode": "def login(request: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(database.get_db)):\n    user = db.query(models.User).filter(models.User.username == request.username).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,\n                            detail=f\"Invalid Credentials\")\n    if not Hash.verify(user.password, request.password):\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,\n                            detail=f\"Incorrect password\")\n    access_token = token.create_access_token(data={\"sub\": user.username})\n    return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "routers.auth_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.auth_router",
+        "description": "routers.auth_router",
+        "peekOfCode": "router = APIRouter(tags=['Authentication'])\n@router.post('/login')\ndef login(request: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(database.get_db)):\n    user = db.query(models.User).filter(models.User.username == request.username).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,\n                            detail=f\"Invalid Credentials\")\n    if not Hash.verify(user.password, request.password):\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,\n                            detail=f\"Incorrect password\")",
+        "detail": "routers.auth_router",
+        "documentation": {}
+    },
+    {
+        "label": "destroy",
+        "kind": 2,
+        "importPath": "routers.tweet_router",
+        "description": "routers.tweet_router",
+        "peekOfCode": "def destroy(tweet_id: int, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.delete(tweet_id, db)\n@router.put('/{tweet_id}', status_code = status.HTTP_202_ACCEPTED)\ndef update(tweet_id:int, request: schemas.TweetSimple, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.update(tweet_id, request, db)\n@router.get('/{tweet_id}', status_code = status.HTTP_200_OK)\ndef show(tweet_id: int, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.get_tweet_by_id(tweet_id, db)",
+        "detail": "routers.tweet_router",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "routers.tweet_router",
+        "description": "routers.tweet_router",
+        "peekOfCode": "def update(tweet_id:int, request: schemas.TweetSimple, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.update(tweet_id, request, db)\n@router.get('/{tweet_id}', status_code = status.HTTP_200_OK)\ndef show(tweet_id: int, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.get_tweet_by_id(tweet_id, db)",
+        "detail": "routers.tweet_router",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "routers.tweet_router",
+        "description": "routers.tweet_router",
+        "peekOfCode": "def show(tweet_id: int, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.get_tweet_by_id(tweet_id, db)",
+        "detail": "routers.tweet_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.tweet_router",
+        "description": "routers.tweet_router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/v1/tweets\",\n    tags=['Tweets']\n)\nget_db = database.get_db\n@router.get('/', response_model = List[schemas.TweetWithUser])\nasync def get_all_tweets(db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.get_all_tweets(db) \n@router.post('/', status_code = status.HTTP_201_CREATED)\nasync def create(request: schemas.TweetSimple, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):",
+        "detail": "routers.tweet_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 5,
+        "importPath": "routers.tweet_router",
+        "description": "routers.tweet_router",
+        "peekOfCode": "get_db = database.get_db\n@router.get('/', response_model = List[schemas.TweetWithUser])\nasync def get_all_tweets(db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    return tweet_service.get_all_tweets(db) \n@router.post('/', status_code = status.HTTP_201_CREATED)\nasync def create(request: schemas.TweetSimple, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):\n    print(current_user)\n    return tweet_service.create(request, db, current_user) \n@router.delete('/{tweet_id}', status_code = status.HTTP_204_NO_CONTENT)\ndef destroy(tweet_id: int, db: Session = Depends(get_db), current_user: schemas.UserBase = Depends(oauth2.get_current_user)):",
+        "detail": "routers.tweet_router",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "routers.user_router",
+        "description": "routers.user_router",
+        "peekOfCode": "def create_user(request: schemas.UserAuth, db: Session = Depends(get_db)):\n    return user_service.create(request, db)\n@router.get('/{id}', response_model = schemas.UserWithTweets)\ndef get_user(id: int, db: Session = Depends(get_db), current_user: schemas.UserAuth = Depends(oauth2.get_current_user)):\n    return user_service.get_user_by_id(id, db)",
+        "detail": "routers.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "routers.user_router",
+        "description": "routers.user_router",
+        "peekOfCode": "def get_user(id: int, db: Session = Depends(get_db), current_user: schemas.UserAuth = Depends(oauth2.get_current_user)):\n    return user_service.get_user_by_id(id, db)",
+        "detail": "routers.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.user_router",
+        "description": "routers.user_router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/user\",\n    tags=['Users']\n)\nget_db = database.get_db\n@router.post('/', status_code = status.HTTP_201_CREATED)\ndef create_user(request: schemas.UserAuth, db: Session = Depends(get_db)):\n    return user_service.create(request, db)\n@router.get('/{id}', response_model = schemas.UserWithTweets)\ndef get_user(id: int, db: Session = Depends(get_db), current_user: schemas.UserAuth = Depends(oauth2.get_current_user)):",
+        "detail": "routers.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 5,
+        "importPath": "routers.user_router",
+        "description": "routers.user_router",
+        "peekOfCode": "get_db = database.get_db\n@router.post('/', status_code = status.HTTP_201_CREATED)\ndef create_user(request: schemas.UserAuth, db: Session = Depends(get_db)):\n    return user_service.create(request, db)\n@router.get('/{id}', response_model = schemas.UserWithTweets)\ndef get_user(id: int, db: Session = Depends(get_db), current_user: schemas.UserAuth = Depends(oauth2.get_current_user)):\n    return user_service.get_user_by_id(id, db)",
+        "detail": "routers.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "TweetBase",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class TweetBase(BaseModel):\n    tweet_id: str\n    tweet: str\n    class Config():\n        from_attributes = True\nclass UserBase(BaseModel):\n    user_id: str\n    username:str\n    password:str\n    class Config():",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class UserBase(BaseModel):\n    user_id: str\n    username:str\n    password:str\n    class Config():\n        from_attributes = True\nclass UserAuth(BaseModel):\n    username:str\n    password:str\n    class Config():",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuth",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class UserAuth(BaseModel):\n    username:str\n    password:str\n    class Config():\n        from_attributes = True\nclass TweetSimple(BaseModel):\n    tweet: str\n    class Config():\n        from_attributes = True        \nclass UserSimple(BaseModel):",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TweetSimple",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class TweetSimple(BaseModel):\n    tweet: str\n    class Config():\n        from_attributes = True        \nclass UserSimple(BaseModel):\n    username: str\n    class Config():\n        from_attributes = True\nclass TweetWithUser(BaseModel):\n    tweet: str",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSimple",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class UserSimple(BaseModel):\n    username: str\n    class Config():\n        from_attributes = True\nclass TweetWithUser(BaseModel):\n    tweet: str\n    user: UserSimple\n    class Config():\n        from_attributes = True        \nclass UserWithTweets(BaseModel):",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TweetWithUser",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class TweetWithUser(BaseModel):\n    tweet: str\n    user: UserSimple\n    class Config():\n        from_attributes = True        \nclass UserWithTweets(BaseModel):\n    username:str\n    tweets : List[TweetSimple] = []\n    class Config():\n        from_attributes = True ",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserWithTweets",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class UserWithTweets(BaseModel):\n    username:str\n    tweets : List[TweetSimple] = []\n    class Config():\n        from_attributes = True \nclass Login(BaseModel):\n    username: str\n    password: str\nclass Token(BaseModel):\n    access_token: str",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class Login(BaseModel):\n    username: str\n    password: str\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: Optional[str] = None",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: Optional[str] = None",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "schemas.schemas",
+        "description": "schemas.schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    username: Optional[str] = None",
+        "detail": "schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tweets",
+        "kind": 2,
+        "importPath": "services.tweet_service",
+        "description": "services.tweet_service",
+        "peekOfCode": "def get_all_tweets(db: Session):\n    return db.query(models.Tweet).all()\ndef create(request: schemas.TweetBase, db: Session, current_user):\n    user = db.query(models.User).filter(models.User.username == current_user.username).first()\n    new_tweet = models.Tweet(tweet = request.tweet, user_id = user.user_id)\n    db.add(new_tweet)\n    db.commit()\n    db.refresh(new_tweet)\n    return schemas.TweetBase(tweet_id = str(new_tweet.tweet_id), tweet = request.tweet)\ndef delete(tweet_id: int, db: Session):",
+        "detail": "services.tweet_service",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "services.tweet_service",
+        "description": "services.tweet_service",
+        "peekOfCode": "def create(request: schemas.TweetBase, db: Session, current_user):\n    user = db.query(models.User).filter(models.User.username == current_user.username).first()\n    new_tweet = models.Tweet(tweet = request.tweet, user_id = user.user_id)\n    db.add(new_tweet)\n    db.commit()\n    db.refresh(new_tweet)\n    return schemas.TweetBase(tweet_id = str(new_tweet.tweet_id), tweet = request.tweet)\ndef delete(tweet_id: int, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id)\n    if not tweet.first():",
+        "detail": "services.tweet_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "services.tweet_service",
+        "description": "services.tweet_service",
+        "peekOfCode": "def delete(tweet_id: int, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id)\n    if not tweet.first():\n        raise HTTPException(status_code = status.HTTP_404_NOT_FOUND,\n                            detail = f\"Tweet with id {tweet_id} not found\")\n    tweet.delete(synchronize_session=False)\n    db.commit()\n    return {\"message\": \"Tweet deleted\"}\ndef update(tweet_id: int, request: schemas.TweetSimple, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id)",
+        "detail": "services.tweet_service",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "services.tweet_service",
+        "description": "services.tweet_service",
+        "peekOfCode": "def update(tweet_id: int, request: schemas.TweetSimple, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id)\n    if not tweet.first():\n        raise HTTPException(status_code = status.HTTP_404_NOT_FOUND,\n                            detail = f\"Tweet with id {tweet_id} not found\")\n    tweet.update({\"tweet\": request.tweet})\n    db.commit()\n    return {\"message\": \"Tweet updated\"}\ndef get_tweet_by_id(tweet_id: int, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id).first()",
+        "detail": "services.tweet_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_tweet_by_id",
+        "kind": 2,
+        "importPath": "services.tweet_service",
+        "description": "services.tweet_service",
+        "peekOfCode": "def get_tweet_by_id(tweet_id: int, db: Session):\n    tweet = db.query(models.Tweet).filter(models.Tweet.tweet_id == tweet_id).first()\n    if not tweet:\n        raise HTTPException(status_code = status.HTTP_404_NOT_FOUND,\n                            detail = f\"Tweet with the id {tweet_id} is not available\")\n    return tweet",
+        "detail": "services.tweet_service",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "peekOfCode": "def create(request: schemas.UserAuth, db:Session):\n    new_user = models.User(username = request.username, password = Hash.bcrypt(request.password))\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return {\"username\": request.username}\ndef get_user_by_id(user_id: int, db:Session):\n    user = db.query(models.User).filter(models.User.user_id == user_id).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,",
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "peekOfCode": "def get_user_by_id(user_id: int, db:Session):\n    user = db.query(models.User).filter(models.User.user_id == user_id).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,\n                            detail=f\"User with the id {user_id} is not available\")\n    return user",
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\norigins = [\n   \"http://192.168.211.:8000\",\n   \"http://localhost\",\n   \"http://localhost:3000\",\n]\napp.add_middleware(\n   CORSMiddleware,\n   allow_origins=origins,\n   allow_credentials=True,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "origins = [\n   \"http://192.168.211.:8000\",\n   \"http://localhost\",\n   \"http://localhost:3000\",\n]\napp.add_middleware(\n   CORSMiddleware,\n   allow_origins=origins,\n   allow_credentials=True,\n   allow_methods=[\"*\"],",
+        "detail": "main",
+        "documentation": {}
+    }
+]
